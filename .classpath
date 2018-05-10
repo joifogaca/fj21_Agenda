@@ -19,5 +19,10 @@
 	<classpathentry kind="lib" path="C:/Users/jsouzsan/Documents/Libs/mysql-connector-java-5.1.46/src/lib/jboss-common-jdbc-wrapper.jar"/>
 	<classpathentry kind="lib" path="C:/Users/jsouzsan/Documents/Libs/mysql-connector-java-5.1.46/src/lib/jboss-common-jdbc-wrapper-src.jar"/>
 	<classpathentry kind="lib" path="C:/Users/jsouzsan/Documents/Libs/mysql-connector-java-5.1.46/src/lib/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jsouzsan/Documents/Libs/JSTL/jstl-api-1.2-sources.jar/jstl-api-1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jsouzsan/Documents/Libs/JSTL/jstl-standard.jar/jstl-standard.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jsouzsan/Documents/Libs/JSTL/taglibs-standard-impl-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jsouzsan/Documents/Libs/JSTL/taglibs-standard-jstlel-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jsouzsan/Documents/Libs/JSTL/taglibs-standard-spec-1.2.5.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
